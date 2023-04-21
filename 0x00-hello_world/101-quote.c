@@ -1,6 +1,6 @@
 #include<stdio.h>
 /**
- * main - Entry point
+ * main - A a C program that prints exactly and that piece of art is useful and a standard error
  *
  * Return: Always 1 (Success)
  */
