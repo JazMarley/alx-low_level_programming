@@ -1,6 +1,6 @@
 #include<stdio.h>
 /**
- * main - A C program that prints exactly Programming is like building a multilingual puzzle, followed by a new line.
+ * main - A C program that prints followed by a new line.
  *
  * Return: Always 0 (Success)
  */
