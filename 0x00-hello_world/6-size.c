@@ -1,6 +1,6 @@
 #include<stdio.h>
 /**
- * main - A C program that prints the size in bytes
+ * main - A C program that prints the size of different types in bytes
  *
  * Return: Always 0 (Success)
  */
