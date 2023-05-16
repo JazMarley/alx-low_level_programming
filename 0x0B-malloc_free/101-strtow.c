@@ -68,7 +68,7 @@ char **strtow(char *str)
 			start = i;
 	}
 
-	matrix[k] = NULL;
+	matrix[t] = NULL;
 
 	return (matrix);
 }
