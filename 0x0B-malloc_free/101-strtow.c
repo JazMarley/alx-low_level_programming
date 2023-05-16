@@ -59,7 +59,7 @@ char **strtow(char *str)
 				while (start < end)
 					*tmp++ = str[start++];
 				*tmp = '\0';
-				matrix[k] = tmp - x;
+				matrix[t] = tmp - x;
 				t++;
 				x = 0;
 			}
